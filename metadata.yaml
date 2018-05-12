@@ -1,0 +1,32 @@
+_repo: '----_25289'
+_version: 0.1.0
+alternative_title: Canglang Shi Hua
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Yan, Yu, active 12th century
+    aliases:
+    - Yan, Danqiu
+    - Yen, Yü
+    - Yen, Yu
+    - 嚴羽
+    - Yan, Yiqing
+    gutenberg_agent_id: '31218'
+    url: http://www.gutenberg.org/2009/agents/31218
+    wikipedia: http://zh.wikipedia.org/wiki/%E5%9A%B4%E7%BE%BD
+description: ''
+gutenberg_issued: '2008-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25289'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Chinese poetry -- History and criticism'
+title: 滄浪詩話
+url: http://www.gutenberg.org/ebooks/25289
